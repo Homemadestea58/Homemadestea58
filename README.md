@@ -2,13 +2,8 @@
 
 - 🔭 I’m currently working on learning different languages
 - 🌱 I’m currently learning React and React Native
-<!--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
 
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Homemadestea58&show_icons=true&hide_border=true&count_private=true">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Homemadestea58&compact=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Homemadestea58&compact=true&hide_border=true">
+</div>

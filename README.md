@@ -1,4 +1,4 @@
-### [<img src="https://github.com/llui85/homemadestea58/blob/master/hi-there.svg?raw=true" alt="llui85" width="48%">](https://github.com/homemadestea58)
+[<img src="https://github.com/llui85/homemadestea58/blob/master/hi-there.svg?raw=true" alt="llui85" width="48%">](https://github.com/homemadestea58)
 
 - 🔭 I’m currently working on learning different languages
 - 🌱 I’m currently learning React and React Native

@@ -6,6 +6,6 @@
 [<img src="https://github.com/homemadestea58/homemadestea58/blob/master/currently-learning.svg?raw=true" alt="I'm currently learning React and React Native" title="I'm currently learning React and React Native" width="85%">](https://github.com/homemadestea58)
 
 <div align="center" valign="center">
-  ![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
+  ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/main/github-metrics.svg)
 </div>
 </div>

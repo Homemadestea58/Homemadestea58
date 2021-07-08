@@ -9,5 +9,9 @@
 
 ![Metrics](https://github.com/homemadestea58/Homemadestea58/blob/master/github-metrics.svg)
   
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+  
 </div>
 
